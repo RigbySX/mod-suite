@@ -1,0 +1,11 @@
+chat-clear-message: "&7(&c&l!&7) Chat has been cleared by &b%player&7."
+
+chat-lock-message: "&7(&c&l!&7) Chat has been locked by &b%player&7."
+chat-locked: "&7Chat is currently locked."
+
+chat-delay-set: "&7(&c&l!&7) &7Server chat delay has been set to &b%time &7seconds by &b%player&7."
+chat-delay-disabled: "&7(&c&l!&7) &7Server chat delay has been &atoggled off &7by &b%player&7."
+chat-delay: "&7(&c&l!&7) &7You cannot chat for another &b%time &7seconds."
+
+mod-mode-on: "&7(&a&l!&7) &7You have toggled mod mode &aon&7."
+mod-mode-off: "&7(&c&l!&7) &7You have toggled mod mode &coff&7."

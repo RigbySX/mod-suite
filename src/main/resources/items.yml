@@ -1,0 +1,9 @@
+sample:
+  id: "sample"
+  slot: 1
+  item:
+    material: COMPASS
+    name: "&a&lSample Item"
+    lore:
+      - "Right-click me"
+      - "To test a suite item"
